@@ -1,0 +1,57 @@
+
+
+
+// const arr1 = ['Ulfat',"Rovshan","9",undefined,"ulfat", "9"]
+// const arr2 = [ "some","Murad","7","Murad","91",false,"Murad"]
+
+// // console.log(arr1.concat( true, false, "null"));
+
+// console.log(arr1.concat(arr2));
+// // console.log (arr1.slice (0, 1)
+// console.log(arr2.filter((item) => typeof item === 'string'));
+// console.log(arr1.filter((item) =>item ==='Ulfat'));
+// console.log(arr1.find((item) =>item === "Ulfat"));
+// console.log(arr1.findIndex((item) => item === '9'))
+// console.log(arr1.findLastIndex((item) => item === '9'))
+// console.log(arr2.indexOf('Murad'));
+// console.log(arr2.lastIndexOf('Murad'));
+
+// let username="kEnaN"
+// console.log(username.slice(0, 1).toUpperCase() + username.slice(1).toLowerCase());
+// console.log (username.toLocaleLowerCase().replace('e','A'));
+
+// const fullName ="Fuad Fuadli"
+// console.log(fullName.split(' '));
+
+// const list = [ "Leman " , "Oruc"]
+// console.log(list.split(' '));
+
+
+// const group1 =[
+//     {
+//         name: "Nermin",
+//         age: 20
+//     } ,
+//     {
+//         name: "Murad",
+//         age:  25
+
+// },
+// {        name:   "Fuad",
+//          age:       27
+
+// },
+
+//        { name: "Anar",
+//         age: 28
+
+// },
+// ]
+// function avarageage(group1) {
+// let sum = 0
+// group1.map (item => sum += item.age)
+// return sum
+
+// }
+
+// console.log(avarageage(group1));
